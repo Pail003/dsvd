@@ -1,0 +1,109 @@
+header {
+	padding-top: 10px;
+	background-color: green;
+  border-style: double;
+  border-color: yellow;
+  background-color: #242424;
+  color: #f4f4f4;
+  text-align: center;
+  font-size: 16px;
+}
+body {
+	color: black;
+	text-align: center;
+  margin:0;
+  background:url("../image/11.jpg");
+}
+.g {color: white;text-align: left;}
+.gg {color: white;text-align: left;}
+.ggg {color: white;text-align: left;}
+.gggg {color: white;text-align: left;}
+.ggggg {color: white;text-align: left;}
+.gggggg {color: white;text-align: left;}
+.ggggggg {color: white;text-align: left;}
+.gggggggg {color: white;text-align: left;}
+.ggggggggg {color: white;text-align: left;}
+.gggggggggg {color: white;text-align: left;}
+.ggggggggggg {color: white;text-align: left;}
+.gggggggggggg {color: white;text-align: left;}
+.ggggggggggggg {color: white;text-align: left;}
+.gggggggggggggg {color: white;text-align: left;}
+.y {
+	margin-top: 15px;
+	padding: 30px 20px 10px 20px;
+	border: 2px solid blue;
+	border-radius: 13px;
+	display: inline-block;
+}
+
+hr {
+    border: none;
+    color: red; 
+    background-color: red; 
+    height: 20px;
+    margin-top: 50px;} 
+.b {
+	border-radius: 50%;
+	image-rendering: auto;
+}
+   header ul {
+   	list-style-type: none;
+   	text-align: center;
+   	font-size: 20px;
+   }
+   header li {
+   	border: 10px solid yellow;
+   	display: inline-block;
+   }
+.v {
+  margin-left: 150px;
+  border: groove;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 3px 7px;
+  border-color: red;
+  color:red;
+}
+.z {
+  margin-left: 150px;
+  border: groove;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 3px 7px;
+  border-color: red;
+  color:red;
+}
+.x {
+  margin-left: 0px;
+  border: groove;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 3px 7px;
+  border-color: red;
+  color:red;
+}
+.c {
+  margin-left: 150px;
+  border: groove;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 3px 7px;
+  border-color: red;
+  color:red;
+}
+header {
+  background-color: #242424;
+  color: #f4f4f4;
+  padding-top: 0px;
+  text-align: center;
+  font-size: 16px;
+}
+.j {
+  margin-left: 150px;
+  border: groove;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 3px 7px;
+  border-color: red;
+  color:red;
+  }
